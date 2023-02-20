@@ -1,0 +1,50 @@
+.Contenedor {
+    width: 100%;
+    height: 1200px;
+    background-color: darkseagreen;
+}
+.Encabezado {
+    width: 100%;
+    height: 150px;
+    background-color: blueviolet;
+    
+    font-size: 35px;
+    font-family: cursive;
+    color: black;
+    text-align: center;
+}
+.Menú {
+    width: 100%;
+    height: 95px;
+    background-color: coral;
+}
+.Contenedor2 {
+    display: flex;
+    width: 100%;
+    height: 1000px;
+    background-color: cornsilk;
+}
+.Izquierda {
+    width: 20%;
+    height: 1000px;
+    background-color: chocolate;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+.Centro  {
+    width: 60%;
+    height: 1000px;
+    background-color: darkred;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+.Derecha {
+    width: 20%;
+    height: 1000px;
+    background-color: darkslategray;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
