@@ -22,38 +22,31 @@
 
 .Tecnología {
     width: 100px;
-    height: 50px;
+    height: 56px;
     background-color: rgb(194, 181, 0);
     margin: 2px;
 }
 
 .Matemáticas {
     width: 100px;
-    height: 50px;
+    height: 56px;
     background-color: rgb(14, 172, 0);
-    margin: 2px;
-}
-
-.Inglés {
-    width: 100px;
-    height: 50px;
-    background-color: rgb(0, 148, 185);
     margin: 2px;
 }
 
 .Sociales {
     width: 100px;
-    height: 50px;
+    height: 56px;
     background-color: rgb(0, 0, 175);
     margin: 2px;
 }
 
 .Biología {
     width: 100px;
-    height: 50px;
+    height: 56px;
     background-color: rgb(161, 0, 148);
     margin: 2px;
-}
+} 
 
 .Contenedor2 {
     display: flex;
