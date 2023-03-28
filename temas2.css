@@ -1,0 +1,65 @@
+.Contenedor {
+width: 100%;
+height: 1200px;
+background-color: antiquewhite;
+}
+.Encabezado {
+    width: 100%;
+    height: 150px;
+    background-color: brown;
+
+font-size: 90px;
+font-family: 'Times New Roman', Times, serif;
+color: black;
+text-align: center;
+}
+.Menú {
+    display: flex;
+    width: 100%;
+    height: 55px;
+    background-color: rgb(255, 255, 255);
+}
+.Tecnología {
+width: 330px;
+height: 55px;
+background-color: rgb(183, 194, 36);
+margin: 2px;
+
+font-size: 30px;
+}
+.Matemáticas {
+    width: 330px;
+    height: 55px;
+    background-color: rgb(48, 155, 26);
+    margin: 2px;
+
+    font-size: 30px;
+}
+.Sociales {
+    width: 330px;
+    height: 55px;
+    background-color: rgb(17, 110, 172);
+    margin: 2px;
+
+    font-size: 30px;
+}
+.Biología {
+    width: 330px;
+    height: 55px;
+    background-color: rgb(156, 38, 111);
+    margin: 2px;
+
+    font-size: 30px;
+}
+.Contenedor2 {
+    display: flex;
+    width: 100%;
+    height: 1810px;
+    background-color: antiquewhite;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Pitágoras {
+    width: 420px;
+    height: 470px;
+}
