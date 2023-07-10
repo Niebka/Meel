@@ -11,7 +11,7 @@
     
     body{
     
-    background-image: url("flor.jpg"); 
+    background-image: url("menu.jpg"); 
 
     background-repeat: no-repeat;
 
@@ -33,11 +33,9 @@
     
     background-repeat: no-repeat;
     
-     
-    
     left: 180px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("");
     
     }
     
@@ -62,4 +60,53 @@
      
     
     }
-    
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagentecno{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("tecnologíap.jpg");
+        
+        }
+        
+        
+        
+        .textotecno{
+        
+        text-align: justify;
+
+        
+        color: azure;
+        
+        font-size: 20px;
+        
+        
+        
+        }
